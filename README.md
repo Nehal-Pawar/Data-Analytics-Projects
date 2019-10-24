@@ -1,6 +1,6 @@
 # Data-Analytics-Projects
 
-Survive Tumor &nbsp;
+Survive Tumor <br/>
 Presented reduction in tumor volume for different treatments over the course of trial with the survival rate
 
 Weather Latitude Relation
