@@ -1,16 +1,16 @@
 # Data-Analytics-Projects
 
-Survive Tumor <br/>
+###### Survive Tumor <br/>
 Presented reduction in tumor volume for different treatments over the course of trial with the survival rate
 
-Weather Latitude Relation<br/>
+###### Weather Latitude Relation<br/>
 Explored relation between latitude and weather using ‘openweathermap’ API for mining trends and patterns
 
-Ideal School Budget<br/>
+###### Ideal School Budget<br/>
 Analyzed the district-wide standardized test results of students to make strategic decisions for future school budgets and priorities
 
-Ride Sharing Strategy<br/>
+###### Ride Sharing Strategy<br/>
 Determined relation between urban and rural rides for the number of drivers to total fare through visualization
 
-Game Players<br/>
+###### Game Players<br/>
 Generated a report to encourage players to purchase optional items that enhanced their playing experience achieved by breaking down the game's purchasing data into meaningful insights
